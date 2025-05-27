@@ -16,7 +16,7 @@ This project is a comprehensive business management platform that integrates var
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-github-repo-url>
+   git clone (https://github.com/mqemzi/business-management-platform)
    cd business-management-platform
    ```
 
